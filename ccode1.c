@@ -3,6 +3,6 @@
 main(){
   char a;
     for(a='65';a<=90;a++){
-      printf("%c\n", a);
+      printf("%c\t", a);
     }
 }
